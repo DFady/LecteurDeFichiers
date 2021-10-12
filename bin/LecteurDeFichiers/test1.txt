@@ -1,0 +1,9 @@
+Par défaut les applets ne peuvent pas écrire
+sur le disque local
+• Depuis Java 1.2, la sécurité peut être
+"affiné". On peut autoriser certains droits à
+certaines applets de certaines provenances,
+etc.
+• Voir tutorial sur la sécurité à
+http://java.sun.com/docs/books/tutorial
+/security1.2/index.html
